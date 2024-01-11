@@ -1,0 +1,17 @@
+{
+  "name": "fleur-contact-backend-api",
+  "version": "1.0.0",
+  "description": "this is the api for fleur contacts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moses Adebayo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
